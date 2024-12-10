@@ -3,7 +3,7 @@ Welcome to my project! This is a simple Tic-Tac-Toe game built using React.
 Through this project, I learned a lot about React concepts, hooks, and the fundamentals of building interactive UIs.
 I hope you enjoy playing the game as much as I enjoyed creating it!
 
-                                                Features 🚀
+                                               Features 🚀
 Interactive Gameplay: Two-player game (X and O) where players take turns.
 
 Responsive Design: The game works on both desktop and mobile devices.
